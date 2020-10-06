@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XMEye</string>
+    <string name="please_input_password">Please input password</string>
+    <string name="please_input_user_name">Please input user name</string>
+</resources>
